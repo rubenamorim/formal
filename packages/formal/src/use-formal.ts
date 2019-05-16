@@ -124,6 +124,7 @@ export default function useFormal<Schema>(
     errors,
     change,
     setErrors,
+    setValues,
     clearErrors,
     validate,
     reset,
