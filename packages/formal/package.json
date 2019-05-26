@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "@rubenamorim/formal",
   "description": "Elegant form management primitives for the react hooks era",
   "license": "MIT",

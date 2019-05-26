@@ -1,6 +1,6 @@
 {
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "@rubenamorim/formal-playground-native",
   "main": "./index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "start": "expo start"
   },
   "dependencies": {
-    "@rubenamorim/formal-native": "^0.1.0",
+    "@rubenamorim/formal-native": "^0.1.1",
     "expo": "^32.0.0",
     "react": "16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
