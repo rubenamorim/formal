@@ -1,5 +1,5 @@
 import { cleanup, renderHook } from 'react-hooks-testing-library'
-import useFormal from '@kevinwolf/formal'
+import useFormal from '@rubenamorim/formal'
 
 import useFormalNative from '../src/use-formal-native'
 

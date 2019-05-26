@@ -1,6 +1,6 @@
 import React from 'react'
 import { StyleSheet, View, Text, TextInput, TextInputProps } from 'react-native'
-import { FormalNativeFieldProps } from '@kevinwolf/formal-native'
+import { FormalNativeFieldProps } from '@rubenamorim/formal-native'
 
 interface FieldProps extends FormalNativeFieldProps, TextInputProps {
   label: string

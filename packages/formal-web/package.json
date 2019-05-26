@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "name": "@kevinwolf/formal-web",
-  "author": "Kevin Wolf <hi@kevinwolf.me>",
+  "name": "@rubenamorim/formal-web",
+  "author": "Kevin Wolf <hi@rubenamorim.me>",
   "description": "Elegant form management primitives for the react hooks era",
   "license": "MIT",
   "homepage": "https://github.com/kevinwolfcr/formal#readme",
@@ -25,7 +25,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@kevinwolf/formal": "^0.1.0"
+    "@rubenamorim/formal": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8",

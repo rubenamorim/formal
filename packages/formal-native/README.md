@@ -1,9 +1,9 @@
-<a href="https://npmjs.com/package/@kevinwolf/formal-native"><img src="https://img.shields.io/npm/v/@kevinwolf/formal-native.svg?label=npm&style=flat-square" alt="@kevinwolf/formal-native"></a>
-<a href="https://npmjs.com/package/@kevinwolf/formal-native"><img src="https://img.shields.io/npm/dm/@kevinwolf/formal-native.svg?label=downloads&style=flat-square" alt="@kevinwolf/formal-native"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal-native"><img src="https://img.shields.io/npm/v/@rubenamorim/formal-native.svg?label=npm&style=flat-square" alt="@rubenamorim/formal-native"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal-native"><img src="https://img.shields.io/npm/dm/@rubenamorim/formal-native.svg?label=downloads&style=flat-square" alt="@rubenamorim/formal-native"></a>
 
-# @kevinwolf/formal-native
+# @rubenamorim/formal-native
 
-📱 Native extension for [@kevinwolf/formal](https://npmjs.com/package/@kevinwolf/formal).
+📱 Native extension for [@rubenamorim/formal](https://npmjs.com/package/@rubenamorim/formal).
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@
 ## Install
 
 ```shell
-yarn add @kevinwolf/formal-native
+yarn add @rubenamorim/formal-native
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ yarn add @kevinwolf/formal-native
 ```typescript
 import React from "react";
 import { Alert, View, Text, TextInput, Button } from "react-native";
-import useFormal from "@kevinwolf/formal-native";
+import useFormal from "@rubenamorim/formal-native";
 import * as yup from "yup";
 
 const schema = yup.object().shape({
@@ -105,7 +105,7 @@ export default function Field({ label, error, ...props }) {
 import React from "react";
 -import { Alert, View, Text, TextInput, Button } from "react-native";
 +import { Alert, View } from 'react-native'
-import useFormal from "@kevinwolf/formal-native";
+import useFormal from "@rubenamorim/formal-native";
 import * as yup from "yup";
 
 +import Field from './components/field'

@@ -1,6 +1,6 @@
 import React from 'react'
 import * as yup from 'yup'
-import useFormal from '@kevinwolf/formal-web'
+import useFormal from '@rubenamorim/formal-web'
 
 import sleep from '../../utils/sleep'
 import Wrapper from '../../components/wrapper'
@@ -21,9 +21,9 @@ const schema = yup.object().shape({
     .string()
     .email()
     .required()
-    .test('is-incorrect', 'email should be hi@kevinwolf.me', async value => {
+    .test('is-incorrect', 'email should be hi@rubenamorim.me', async value => {
       await sleep(1)
-      return value === 'hi@kevinwolf.me'
+      return value === 'hi@rubenamorim.me'
     }),
 })
 

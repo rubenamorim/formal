@@ -1,5 +1,5 @@
 import React from 'react'
-import useFormal from '@kevinwolf/formal-web'
+import useFormal from '@rubenamorim/formal-web'
 
 import sleep from '../../utils/sleep'
 import Wrapper from '../../components/wrapper'

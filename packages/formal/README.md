@@ -1,7 +1,7 @@
-<a href="https://npmjs.com/package/@kevinwolf/formal"><img src="https://img.shields.io/npm/v/@kevinwolf/formal.svg?label=npm&style=flat-square" alt="@kevinwolf/formal"></a>
-<a href="https://npmjs.com/package/@kevinwolf/formal"><img src="https://img.shields.io/npm/dm/@kevinwolf/formal.svg?label=downloads&style=flat-square" alt="@kevinwolf/formal"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal"><img src="https://img.shields.io/npm/v/@rubenamorim/formal.svg?label=npm&style=flat-square" alt="@rubenamorim/formal"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal"><img src="https://img.shields.io/npm/dm/@rubenamorim/formal.svg?label=downloads&style=flat-square" alt="@rubenamorim/formal"></a>
 
-# @kevinwolf/formal
+# @rubenamorim/formal
 
 👔 Elegant form management primitives for the react hooks era.
 
@@ -21,7 +21,7 @@
 ## Install
 
 ```shell
-yarn add @kevinwolf/formal
+yarn add @rubenamorim/formal
 ```
 
 ## Usage with React
@@ -31,7 +31,7 @@ yarn add @kevinwolf/formal
 ```typescript
 import React from "react";
 import * as yup from "yup";
-import useFormal from "@kevinwolf/formal";
+import useFormal from "@rubenamorim/formal";
 
 const schema = yup.object().shape({
   firstName: yup.string().required(),
@@ -109,7 +109,7 @@ export default function App() {
 import React from "react";
 import { View, Text, TextInput, Button } from "react-native";
 import * as yup from "yup";
-import useFormal from "@kevinwolf/formal";
+import useFormal from "@rubenamorim/formal";
 
 const schema = yup.object().shape({
   firstName: yup.string().required(),
@@ -171,8 +171,8 @@ export default function App() {
 
 In order to reduce boilerplate, you can install one of two packages depending on whether you are on web or mobile. That way, you will receive some prop getters that you just have to spread to your inputs and buttons. ✨
 
-- [@kevinwolf/formal-web](http://npmjs.com/package/@kevinwolf/formal-web)
-- [@kevinwolf/formal-native](http://npmjs.com/package/@kevinwolf/formal-native)
+- [@rubenamorim/formal-web](http://npmjs.com/package/@rubenamorim/formal-web)
+- [@rubenamorim/formal-native](http://npmjs.com/package/@rubenamorim/formal-native)
 
 ## Extended documentation
 

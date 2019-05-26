@@ -10,7 +10,7 @@ interface WrapperProps {
   children: React.ReactNode
 }
 
-const DEBUG_LOCALSTORAGE_KEY = '@kevinwolf/formal:debug'
+const DEBUG_LOCALSTORAGE_KEY = '@rubenamorim/formal:debug'
 
 export default function ExampleWrapper({
   title,

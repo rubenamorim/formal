@@ -22,7 +22,7 @@ This is the most basic example and it doesn't include any validation. For exampl
 
 ```javascript
 import React from "react";
-import useFormal from "@kevinwolf/formal";
+import useFormal from "@rubenamorim/formal";
 
 const initialValues = {
   firstName: "",

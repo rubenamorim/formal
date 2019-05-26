@@ -3,7 +3,7 @@ import {
   FormalFieldProps,
   FormalResetButtonProps,
   FormalSubmitButtonProps,
-} from '@kevinwolf/formal'
+} from '@rubenamorim/formal'
 
 export interface FormalNativeFieldProps extends FormalFieldProps {
   onChangeText: (text: string) => void

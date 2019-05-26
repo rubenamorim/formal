@@ -16,7 +16,7 @@ On this example we fake an async submission by returning a promise on the `confi
 
 ```javascript
 import React from "react";
-import useFormal from "@kevinwolf/formal";
+import useFormal from "@rubenamorim/formal";
 
 const initialValues = {
   firstName: "",

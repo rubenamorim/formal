@@ -23,7 +23,7 @@ By default, if you provided a **yup schema** to `config.schema`, the form will v
 ```javascript
 import React from "react";
 import * as yup from "yup";
-import useFormal from "@kevinwolf/formal";
+import useFormal from "@rubenamorim/formal";
 
 const initialValues = {
   firstName: "",

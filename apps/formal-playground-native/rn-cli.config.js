@@ -1,6 +1,6 @@
 /* eslint-disable import/no-extraneous-dependencies, @typescript-eslint/no-var-requires */
 const {
   createReactNativeConfiguration,
-} = require('@kevinwolf/expo-yarn-workspaces')
+} = require('@rubenamorim/expo-yarn-workspaces')
 
 module.exports = createReactNativeConfiguration(__dirname)

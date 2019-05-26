@@ -15,7 +15,7 @@ If your `config.schema` contains asynchronous validations, then the form will wa
 ```javascript
 import React from "react";
 import * as yup from "yup";
-import useFormal from "@kevinwolf/formal";
+import useFormal from "@rubenamorim/formal";
 
 const initialValues = {
   firstName: "",

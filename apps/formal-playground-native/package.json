@@ -1,7 +1,7 @@
 {
   "private": true,
   "version": "0.1.0",
-  "name": "@kevinwolf/formal-playground-native",
+  "name": "@rubenamorim/formal-playground-native",
   "main": "./index.js",
   "scripts": {
     "postinstall": "node ./scripts/enable-rn-hooks.js",
@@ -9,14 +9,14 @@
     "start": "expo start"
   },
   "dependencies": {
-    "@kevinwolf/formal-native": "^0.1.0",
+    "@rubenamorim/formal-native": "^0.1.0",
     "expo": "^32.0.0",
     "react": "16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "yup": "^0.27.0"
   },
   "devDependencies": {
-    "@kevinwolf/expo-yarn-workspaces": "^0.1.0",
+    "@rubenamorim/expo-yarn-workspaces": "^0.1.0",
     "@types/expo": "^32.0.9",
     "@types/react-native": "^0.57.42"
   }

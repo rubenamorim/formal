@@ -1,6 +1,6 @@
 import React from 'react'
 import { StyleSheet, TouchableOpacity, Text } from 'react-native'
-import { FormalNativeSubmitButtonProps } from '@kevinwolf/formal-native'
+import { FormalNativeSubmitButtonProps } from '@rubenamorim/formal-native'
 
 interface ButtonProps extends FormalNativeSubmitButtonProps {
   children: string

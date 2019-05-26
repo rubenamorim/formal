@@ -1,7 +1,6 @@
 {
   "version": "0.1.0",
-  "name": "@kevinwolf/formal",
-  "author": "Kevin Wolf <hi@kevinwolf.me>",
+  "name": "@rubenamorim/formal",
   "description": "Elegant form management primitives for the react hooks era",
   "license": "MIT",
   "homepage": "https://github.com/kevinwolfcr/formal#readme",

@@ -1,9 +1,9 @@
-<a href="https://npmjs.com/package/@kevinwolf/formal-web"><img src="https://img.shields.io/npm/v/@kevinwolf/formal-web.svg?label=npm&style=flat-square" alt="@kevinwolf/formal-web"></a>
-<a href="https://npmjs.com/package/@kevinwolf/formal-web"><img src="https://img.shields.io/npm/dm/@kevinwolf/formal-web.svg?label=downloads&style=flat-square" alt="@kevinwolf/formal-web"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal-web"><img src="https://img.shields.io/npm/v/@rubenamorim/formal-web.svg?label=npm&style=flat-square" alt="@rubenamorim/formal-web"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal-web"><img src="https://img.shields.io/npm/dm/@rubenamorim/formal-web.svg?label=downloads&style=flat-square" alt="@rubenamorim/formal-web"></a>
 
-# @kevinwolf/formal-web
+# @rubenamorim/formal-web
 
-💻 Web extension for [@kevinwolf/formal](https://npmjs.com/package/@kevinwolf/formal).
+💻 Web extension for [@rubenamorim/formal](https://npmjs.com/package/@rubenamorim/formal).
 
 ## Table of Contents
 
@@ -20,14 +20,14 @@
 ## Install
 
 ```shell
-yarn add @kevinwolf/formal-web
+yarn add @rubenamorim/formal-web
 ```
 
 ## Usage
 
 ```typescript
 import React from "react";
-import useFormal from "@kevinwolf/formal-web";
+import useFormal from "@rubenamorim/formal-web";
 import * as yup from "yup";
 
 const schema = yup.object().shape({
@@ -103,7 +103,7 @@ export default function Field({ id, label, error, ...props }) {
 
 ```diff
 import React from "react";
-import useFormal from "@kevinwolf/formal-web";
+import useFormal from "@rubenamorim/formal-web";
 import * as yup from "yup";
 
 +import Field from './field'

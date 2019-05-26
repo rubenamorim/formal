@@ -1,7 +1,7 @@
 {
   "private": true,
   "version": "0.1.0",
-  "name": "@kevinwolf/expo-yarn-workspaces",
+  "name": "@rubenamorim/expo-yarn-workspaces",
   "main": "index.js",
   "dependencies": {
     "debug": "^4.1.0",

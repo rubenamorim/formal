@@ -16,7 +16,7 @@ On this example, we have a reset button added to the form. When clicking the but
 
 ```javascript
 import React from "react";
-import useFormal from "@kevinwolf/formal";
+import useFormal from "@rubenamorim/formal";
 
 const initialValues = {
   firstName: "",

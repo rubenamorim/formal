@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import useFormal, { FormalConfig } from '@kevinwolf/formal'
+import useFormal, { FormalConfig } from '@rubenamorim/formal'
 
 import { FormalWebState, FormalWebTextFieldEvent } from './types'
 

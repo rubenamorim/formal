@@ -30,9 +30,9 @@ Elegant form management primitives<br />for the react hooks era.
 
 <p align="center">
 <!-- START npm-badges -->
-<a href="https://npmjs.com/package/@kevinwolf/formal"><img src="https://img.shields.io/npm/v/@kevinwolf/formal.svg?label=@kevinwolf/formal&style=flat-square" alt="@kevinwolf/formal"></a>
-<a href="https://npmjs.com/package/@kevinwolf/formal-web"><img src="https://img.shields.io/npm/v/@kevinwolf/formal-web.svg?label=@kevinwolf/formal-web&style=flat-square" alt="@kevinwolf/formal-web"></a>
-<a href="https://npmjs.com/package/@kevinwolf/formal-native"><img src="https://img.shields.io/npm/v/@kevinwolf/formal-native.svg?label=@kevinwolf/formal-native&style=flat-square" alt="@kevinwolf/formal-native"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal"><img src="https://img.shields.io/npm/v/@rubenamorim/formal.svg?label=@rubenamorim/formal&style=flat-square" alt="@rubenamorim/formal"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal-web"><img src="https://img.shields.io/npm/v/@rubenamorim/formal-web.svg?label=@rubenamorim/formal-web&style=flat-square" alt="@rubenamorim/formal-web"></a>
+<a href="https://npmjs.com/package/@rubenamorim/formal-native"><img src="https://img.shields.io/npm/v/@rubenamorim/formal-native.svg?label=@rubenamorim/formal-native&style=flat-square" alt="@rubenamorim/formal-native"></a>
 <!-- END npm-badges -->
 </p>
 
@@ -81,21 +81,21 @@ The usage of this package depends if you are using react web or react native.
 
 ### Usage with React Web
 
-For usage with React Web, refer to [@kevinwolf/formal-web](./packages/formal-web) README.
+For usage with React Web, refer to [@rubenamorim/formal-web](./packages/formal-web) README.
 
 ### Usage with React Native
 
-For usage with React Native, refer to [@kevinwolf/formal-native](./packages/formal-native) README.
+For usage with React Native, refer to [@rubenamorim/formal-native](./packages/formal-native) README.
 
 <!-- END usage -->
 
 ## Included packages
 
-| Name                                                 | Description                                                                               |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [@kevinwolf/formal](./packages/formal)               | 👔 Elegant form management primitives for the react hooks era.                            |
-| [@kevinwolf/formal-web](./packages/formal-web)       | 💻 Web extension for [@kevinwolf/formal](https://npmjs.com/package/@kevinwolf/formal).    |
-| [@kevinwolf/formal-native](./packages/formal-native) | 📱 Native extension for [@kevinwolf/formal](https://npmjs.com/package/@kevinwolf/formal). |
+| Name                                                   | Description                                                                                   |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| [@rubenamorim/formal](./packages/formal)               | 👔 Elegant form management primitives for the react hooks era.                                |
+| [@rubenamorim/formal-web](./packages/formal-web)       | 💻 Web extension for [@rubenamorim/formal](https://npmjs.com/package/@rubenamorim/formal).    |
+| [@rubenamorim/formal-native](./packages/formal-native) | 📱 Native extension for [@rubenamorim/formal](https://npmjs.com/package/@rubenamorim/formal). |
 
 ## API Reference
 

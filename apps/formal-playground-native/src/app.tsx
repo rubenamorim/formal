@@ -1,6 +1,6 @@
 import React from 'react'
 import { StyleSheet, Alert, View } from 'react-native'
-import useFormal from '@kevinwolf/formal-native'
+import useFormal from '@rubenamorim/formal-native'
 import * as yup from 'yup'
 
 import Field from './components/field'

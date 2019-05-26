@@ -1,6 +1,6 @@
 import React from 'react'
 import * as yup from 'yup'
-import useFormal from '@kevinwolf/formal-web'
+import useFormal from '@rubenamorim/formal-web'
 
 import Wrapper from '../../components/wrapper'
 import TextField from '../../components/text-field'
